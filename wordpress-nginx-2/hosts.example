@@ -1,0 +1,2 @@
+[wordpress-web]
+mydomain.com ansible_user=centos ansible_become=true
